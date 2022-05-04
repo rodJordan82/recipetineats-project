@@ -8,5 +8,10 @@
   &__link {
     text-decoration: none;
     color: rgb(61, 61, 61);
+
+    &:hover {
+      color: #f4796c;
+      transition: 0.4s;
+    }
   }
 }
