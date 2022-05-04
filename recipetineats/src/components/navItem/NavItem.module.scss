@@ -1,0 +1,12 @@
+.nav {
+  padding: 10px 20px;
+  font-size: 1.4em;
+  text-transform: uppercase;
+  font-weight: bold;
+  list-style: none;
+
+  &__link {
+    text-decoration: none;
+    color: rgb(61, 61, 61);
+  }
+}
