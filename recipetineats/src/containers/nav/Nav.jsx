@@ -4,7 +4,7 @@ import styles from "./nav.module.scss";
 const Nav = () => {
   const navArray = [
     {
-      title: "My RecipeTin",
+      title: "My DecorativeBox",
     },
     {
       title: "Recipes",
