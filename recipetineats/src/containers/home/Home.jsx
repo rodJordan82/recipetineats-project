@@ -7,7 +7,7 @@ const Home = () => {
         href="https://www.recipetineats.com/"
         className={styles.home_container__heading}
       >
-        RecipeTin Eats
+        DecorativeBox Eats
       </a>
       <div className={styles.home_container__search}>
         <input
